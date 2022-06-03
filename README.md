@@ -7,7 +7,7 @@ Click on the "generate password" button. A window will pop-up and prompt the use
 ![image](https://user-images.githubusercontent.com/99705924/171769682-72d9676a-fd8e-4af5-bc22-74842713f0f3.png)
 
 **Application URL**
-URL
+[URL](https://shmeeheart.github.io/Open-Sesame-Password-Generator/)
 
 **Application Author**
 Jennifer Goodwin
